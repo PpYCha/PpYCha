@@ -1,11 +1,11 @@
 ### Hi there 👋
-Hello
+Hello 
 
 
-🔭 I’m currently working on developing a new web application using Next.js.
-🤔 I’m looking for help with optimizing the performance of my web applications and improving my code quality.
-💬 Ask me about my experience with building scalable web applications and using modern web development tools.
-📫 How to reach me: ... You can reach me through my LinkedIn profile.
+🔭 I’m currently working on developing a new web application using Next.js. 
+🤔 I’m looking for help with optimizing the performance of my web applications and improving my code quality. 
+💬 Ask me about my experience with building scalable web applications and using modern web development tools. 
+📫 How to reach me: ... You can reach me through my LinkedIn profile. 
 
 <!--
 **PpYCha/PpYCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
