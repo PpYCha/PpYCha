@@ -40,8 +40,6 @@
 <br />
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ppycha&" alt="ppycha" />
-  <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PpYCha&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues,prs&line_height=30" alt="Diasan github Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PpYCha&layout=compact&theme=chartreuse-dark&hide=Objective-C,Java&card_width=250" alt="Diasan programming languages">
-  </div>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PpYCha&layout=compact&theme=chartreuse-dark&hide=Objective-C,Java&card_width=250" alt="Diasan programming languages">
 </div>
